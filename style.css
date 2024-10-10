@@ -1,0 +1,10 @@
+p{
+    color: blue;
+}
+.content{
+    background: #aa2323;
+    .imagenes{
+        height: 100px;
+        max-width: 100px;
+}
+}
